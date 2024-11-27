@@ -12,6 +12,7 @@ env
 .env.demo
 /logs
 logs/*
+MAT_*/*
 
 
 # Byte-compiled / optimized / DLL files
